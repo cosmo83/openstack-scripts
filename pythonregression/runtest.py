@@ -6,7 +6,7 @@ import time
 import datetime
 import random
 USER='admin'
-PASS='Wipr0@123!'
+PASS='xxxxxxyzyyz'
 TENANT='openstack'
 AUTH_URL = 'https://keystone-server:5000/v2.0/' #Set the Keystone URL
 NUMOFREGRESSIONS=10 #Set this value to a higher value, if needed.
